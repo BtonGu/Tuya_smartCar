@@ -41,3 +41,7 @@ arduino,引入tuya库,
 ### 6成品&调试
 ![20210802_172620.jpg](https://images.tuyacn.com/developer/community/1627970559d77924197e7.jpg)
 
+
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
+For more information, please check Tuya Developer Website.
+				
